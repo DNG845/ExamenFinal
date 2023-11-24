@@ -1,0 +1,81 @@
+
+Parte 1. Desarollo téorico. 12 pts
+
+Lista de Preguntas Seleccione 4 de ellas unicamente.
+
+1. [3 pts] ¿Qué es la herencia en Java y cómo se implementa? 
+Proporcione un ejemplo práctico de una clase que hereda de otra, 
+y explica la relación entre la clase padre e hija.
+
+R/La herencia en java es la heredacion o el uso de las mismas variables o metodos
+entre una clase principal y otra. Esto se implementa ediante el uso de diagramas
+siendo un ejemplo de esto una clase que en la cual esten implementadas unas 
+variables en las cuales se pidan el nombre de una persona y se crea una case 
+nueva en la cual tambien se necesita que comparta caracteristicas con la clase 
+pincipal. Siendo la relacion ente una clase pade e hija las variables que van
+compartir dado que la hija va a compartir las variables con la clase padre.
+
+
+
+
+2.[3 pts] Explique el concepto de polimorfismo en Java. 
+Proporcione un ejemplo concreto utilizando métodos y explique cómo 
+el polimorfismo facilita el diseño de programas flexibles y extensibles.
+
+R/
+
+
+
+3.[3 pts] ¿Cuál es el propósito de una clase abstracta en Java? 
+Proporciona un ejemplo de una clase abstracta y explica cómo se diferencia
+ de una clase regular.
+
+R/
+
+
+
+
+4.[3 pts] Describa cómo se pueden leer y escribir datos en archivos en Java. 
+Menciona la importancia de manejar excepciones en este contexto.
+
+
+R/Mediante la implmentasion de preguntas para el usuario mediante la consola o 
+interfaces de usuario en donde el manejo de excepciones es muy importante para
+impdir que el usuario o al intentar utiizar el codigo este no deje de funcionar 
+o este llegue a puntos muertos donde tal vez no allan cosas implmentadas o que 
+de errores.
+
+
+
+5.[3 pts] Explica el concepto de recursividad en Java. 
+Proporciona un ejemplo de una función recursiva y discute cómo funciona,
+ así como las precauciones que deben tomarse al utilizar la recursividad.
+
+
+R/La recursividad es un concepto en el cual se pueden utilizar los elementos de
+una variable previamente extablesida para utilizarla de una forma inversa un 
+ejemplo seria la recursividad directa. La cual funciona utilizando una variable
+de una forma directa en el codigo un ejemplo de esto y su funcionamiento seria 
+que para querer conseguir un resultado por ejemplo numeros pares e inpares
+se utilizen de una forma inversa una variable para par se usa para conseguir el
+resultado del impar y una variabl para impar se utiliza para conseguir el 
+resultado del par. Las precausiones serian que al utilizar la recursividad es
+muy facil confundirse en su uso teniendo que tener mucho cuidado ala hora de 
+utilizarse.
+
+
+
+6.[3 pts] ¿Cómo se gestiona dinámicamente la memoria en Java? 
+Explica cómo Java aborda la liberación de memoria.
+
+
+R/La gestion de memoria en java se gestiona mediante la declaracion de variables,
+metodos, referenciasion, etc. Esto funcionando de modo que entre mas extenso sea
+un codigo mas uso de memoria y recursos va a necesitar haciendo que un proyecto
+en java sea mas posado y oupe mas recursos fisicos para su funcionamiento.
+Con la gestion de memoria lo que se hace es buscar una solucion a esto y a ahorrar
+recursos de la PC mediante la liberacion de memoria. La liberacion de memoria
+java lo aborda mediante el uso dinamico de la memoria. Para que no se use la
+memoria de forma constante sino de forma a medida se va necesitando. 
+
+
